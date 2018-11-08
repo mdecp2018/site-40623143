@@ -24,10 +24,18 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181108221234.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181108221234.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181108220802.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181108220802.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181108221637.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181108221637.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -36,6 +44,7 @@
 </v>
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -124,7 +133,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 40623143簡報
 
 ### 虎科大機械設計工程系
 
@@ -325,6 +334,53 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181108220802.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108220802.2"># 第二週 WEEK2
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/C2fArIb1uoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20181108221234.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108221234.2"># 第一週 WEEK1
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/s9lgXLN5Yxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20181108221637.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108221637.2"># 第三週 WEEK3
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xQYidRV6VHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
 </t>
 </tnodes>
 </leo_file>
